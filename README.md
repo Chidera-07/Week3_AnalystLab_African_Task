@@ -1,7 +1,5 @@
 # Week3_AnalystLab_African_Task
-SQL business analytics project using Chinook + sales dataset to uncover insights on customers, revenue, products, and employee performance.
-🚀 Project Overview
-
+### Project Overview
 This project showcases real-world business data analysis using SQL on two datasets:
 
 - 🎵 Chinook Database – A digital music store (customers, invoices, employees, albums, tracks)
